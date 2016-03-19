@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-   font: normal 100%/1.5 Georgia, serif;
+  font: normal 100%/1.5 Georgia, serif;
 }
 
 *, *::before, *::after {
@@ -8,11 +8,11 @@ html {
 }
 
 .ball {
-	width: 100px;
-	height: 100px;
-	position: absolute;
-	background-color: red;
-	border-radius: 50px;
-	top: 200px;
-	left: 200px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  background-color: red;
+  border-radius: 50px;
+  top: 200px;
+  left: 200px;
 }
